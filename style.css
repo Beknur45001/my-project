@@ -3,9 +3,9 @@
     height: 300px;
     margin: 0 auto;
     box-shadow: 8px 12px  20px black;
-    background-color: #fff;
+    background-color: gray;
     border-radius: 8px;
-    border: 5px solid black;
+    /* border: 5px solid black; */
     color: #fff;
 }
 .content{
@@ -13,8 +13,50 @@
     height: 300px;
     margin: 0 auto;
     box-shadow: 8px 12px  20px black;
-    background-color: #fff;
+    background-color: gray;
     border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
    
     
+}
+.kkk{
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+    box-shadow: 8px 12px  20px black;
+    background-color: gray;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    
+}
+.mmm{
+    background-color: green;
+    width: 290px;
+    height: 290px;
+    border-radius: 50%;
+}
+.jjj{
+    background-color: red;
+    width: 290px;
+    height: 290px;
+    border-radius: 50%;
+}
+.bbb{
+    background-color: orange;
+    width: 290px;
+    height: 290px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bbb p{
+    font-size: 90px;
+    font-weight: 900;
+
 }
